@@ -13,3 +13,4 @@
 
 - Plans are underway to address the compatibility issue for mobile devices in future updates.
 - Suggestions for improvement are appreciated.
+- One can find the site [here](https://vintage-netflix.netlify.app/).
